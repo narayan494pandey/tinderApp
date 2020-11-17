@@ -9,6 +9,7 @@
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+  margin-bottom: 5px;
 }
 .tinderCards__cardContainer {
   display: flex;
@@ -27,4 +28,7 @@
   bottom: 0;
   margin: 10px;
   color: #fff;
+}
+.tinderCards {
+  margin-bottom: 10vh;
 }

@@ -23,9 +23,7 @@ function SwipeButton() {
             </IconButton>
             <IconButton className="swipeButton__lightning">
                 <FlashOnIcon  fontSize="large" />
-            </IconButton>
-            
-            
+            </IconButton>   
         </div>
     )
 }
