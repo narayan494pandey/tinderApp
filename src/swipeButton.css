@@ -1,4 +1,7 @@
-swipeButton {
+.swipeButton {
+  position: fixed;
+  bottom: 5vh;
   display: flex;
-  justify-content: space-between;
+  width: 100%;
+  justify-content: space-evenly;
 }
